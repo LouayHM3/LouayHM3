@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="185" viewBox="0 0 520 185" role="img" aria-labelledby="title desc">
+<title id="title">Cloud-Native Security Monitor</title><desc id="desc">Security across the container lifecycle.</desc>
+<rect x="1" y="1" width="518" height="183" rx="16" fill="#101b2d" stroke="#2a3c57"/>
+<path d="M20 1H500" stroke="#38bdf8" opacity=".55"/>
+<g transform="translate(443 23)" fill="none" stroke="#38bdf8" stroke-width="1.8"><path d="M25 7L40 14V26C40 38 32 44 25 48C18 44 10 38 10 26V14Z"/><path d="M18 25L23 30L33 20"/></g>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="25" y="35" font-size="11" letter-spacing="2" fill="#38bdf8">PROJECT 02</text>
+<text x="25" y="76" font-size="23" font-weight="600" fill="#f1f5f9">Cloud-Native Security Monitor</text>
+<text x="25" y="105" font-size="14" fill="#a8b8ce">Security across the container lifecycle.</text>
+<text x="25" y="153" font-size="10" letter-spacing="1.5" fill="#7f94b0">KUBERNETES / FALCO / OPA</text>
+<text x="469" y="154" font-size="22" fill="#38bdf8">↗</text>
+</g></svg>

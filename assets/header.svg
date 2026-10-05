@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-labelledby="title desc">
+<title id="title">Louay Hammoudi — Secure by design. Curious by nature.</title>
+<desc id="desc">Animated network nodes orbit a shield beside Louay's name. AI, cybersecurity, cloud and networks.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#13213b"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#38bdf8" stop-opacity=".2"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0L0 0 0 32" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+<style>
+.orbit{transform-origin:866px 181px;animation:spin 30s linear infinite}
+.counter{transform-origin:866px 181px;animation:spin 45s linear infinite reverse}
+.pulse{animation:pulse 4s ease-in-out infinite}
+.signal{stroke-dasharray:12 120;animation:flow 12s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+@keyframes flow{to{stroke-dashoffset:-528}}
+@media(prefers-reduced-motion:reduce){.orbit,.counter,.pulse,.signal{animation:none}}
+</style>
+</defs>
+<rect x="1" y="1" width="1098" height="358" rx="24" fill="url(#bg)" stroke="#263853"/>
+<rect x="1" y="1" width="1098" height="358" rx="24" fill="url(#grid)"/>
+<circle cx="866" cy="181" r="240" fill="url(#glow)"/>
+<path d="M40 1H1060" stroke="url(#accent)" stroke-width="2" opacity=".8"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="48" y="45" width="177" height="27" rx="13.5" fill="#142c39" stroke="#245265"/>
+<circle cx="64" cy="58.5" r="3.5" fill="#5eead4" class="pulse"/>
+<text x="78" y="63" fill="#a5f3fc" font-size="10" letter-spacing="1.2">ENGINEERING PORTFOLIO</text>
+<text x="46" y="143" font-size="58" font-weight="700" letter-spacing="-2" fill="#f8fafc">Louay Hammoudi<tspan fill="#5eead4">.</tspan></text>
+<text x="49" y="190" font-size="23" fill="#d0dcec">Secure by design. Curious by nature.</text>
+<text x="49" y="230" font-size="16" fill="#94a3b8">AI &amp; cybersecurity · Cloud infrastructure · Networks</text>
+<line x1="49" y1="265" x2="616" y2="265" stroke="#253854"/>
+<text x="49" y="298" font-size="13" letter-spacing=".6" fill="#94a3b8">ENIT · TUNIS, TUNISIA</text>
+<text x="49" y="321" font-size="12" fill="#64748b">Building at the intersection of intelligence and trust.</text>
+</g>
+<g fill="none">
+<circle cx="866" cy="181" r="126" stroke="#385573" stroke-dasharray="2 8"/>
+<circle cx="866" cy="181" r="98" stroke="#3b5b7c" opacity=".7"/>
+<path d="M740 181H992M866 55V307M777 92L955 270M777 270L955 92" stroke="#375674" stroke-opacity=".5"/>
+<g class="orbit"><circle cx="866" cy="181" r="126" stroke="#5eead4" opacity=".25"/><circle cx="866" cy="55" r="6" fill="#5eead4" stroke="#0b1220" stroke-width="4"/><circle cx="866" cy="307" r="4" fill="#a78bfa"/></g>
+<g class="counter"><circle cx="964" cy="181" r="5" fill="#38bdf8"/><circle cx="768" cy="181" r="3" fill="#5eead4"/></g>
+<circle cx="866" cy="181" r="72" fill="#0c1729" stroke="#355376"/>
+<path d="M866 135L899 148V174C899 196 886 213 866 224C846 213 833 196 833 174V148Z" stroke="url(#accent)" stroke-width="2.5"/>
+<path d="M852 178L862 188L881 166" stroke="#5eead4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="866" cy="181" r="98" stroke="#38bdf8" class="signal" opacity=".8"/>
+</g>
+</svg>
