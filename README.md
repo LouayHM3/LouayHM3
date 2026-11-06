@@ -46,6 +46,9 @@ Projects from my starred repositories. Click a card or project link to explore i
 **Starred projects:** [Edge SRE](https://github.com/LouayHM3/EDGE-SRE) · [RobSim](https://github.com/LouayHM3/RobSim) · [MedVision](https://github.com/LouayHM3/Breast-Cancer-Histopathology-Classification-with-Deep-Learning) · [Network IDS & SOC Copilot](https://github.com/LouayHM3/network-ids-soc-copilot) · [Secure RAG Red-Team Benchmark](https://github.com/LouayHM3/secure-rag-red-team-benchmark) · [Cloud-Native Security Monitor](https://github.com/LouayHM3/cloud-native-security-monitor) · [A-CorePilot](https://github.com/LouayHM3/A-CorePilot) · [CloudShield](https://github.com/LouayHM3/CloudShield)
 
 <div align="center">
+  <a href="https://github.com/LouayHM3/EDGE-SRE"><img src="./assets/edge-sre.svg" width="420" alt="Edge SRE — explore the repository" /></a>
+  <a href="https://github.com/LouayHM3/RobSim"><img src="./assets/RobSim.svg" width="420" alt="RobSim — explore the repository" /></a>
+  <a href="https://github.com/LouayHM3/Breast-Cancer-Histopathology-Classification-with-Deep-Learning"><img src="./assets/medvision.svg" width="420" alt="MedVision — explore the repository" /></a>
   <a href="https://github.com/LouayHM3/network-ids-soc-copilot"><img src="./assets/network-ids-soc-copilot.svg" width="420" alt="Network IDS &amp; SOC Copilot — explore the repository" /></a>
   <a href="https://github.com/LouayHM3/cloud-native-security-monitor"><img src="./assets/cloud-native-security-monitor.svg" width="420" alt="Cloud-Native Security Monitor — explore the repository" /></a>
   <a href="https://github.com/LouayHM3/secure-rag-red-team-benchmark"><img src="./assets/secure-rag-red-team-benchmark.svg" width="420" alt="Secure RAG Benchmark — explore the repository" /></a>
