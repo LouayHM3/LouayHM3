@@ -41,16 +41,15 @@ I build projects at the intersection of cybersecurity, AI/LLMs, networked system
 
 ## Selected projects
 
-Security labs, AI prototypes and tools I'm building. Click a card or project link to explore its source, architecture and implementation.
+Projects from my starred repositories. Click a card or project link to explore its source, architecture and implementation.
 
-**Recent CV projects:** [MedVision](https://github.com/LouayHM3/Breast-Cancer-Histopathology-Classification-with-Deep-Learning) · [RobSim](https://github.com/LouayHM3/RobSim) · [Edge SRE](https://github.com/LouayHM3/EDGE-SRE) · [Network Impairment Harness](https://github.com/LouayHM3/network-impairment-harness) · [ARGUS-Micro](https://github.com/LouayHM3/argus) · [EHealthAccess](https://github.com/LouayHM3/EHealthAccess) · [RF Exposure Modelling & PSO](https://github.com/LouayHM3/rf-lab-pso)
+**Starred projects:** [Edge SRE](https://github.com/LouayHM3/EDGE-SRE) · [RobSim](https://github.com/LouayHM3/RobSim) · [MedVision](https://github.com/LouayHM3/Breast-Cancer-Histopathology-Classification-with-Deep-Learning) · [Network IDS & SOC Copilot](https://github.com/LouayHM3/network-ids-soc-copilot) · [Secure RAG Red-Team Benchmark](https://github.com/LouayHM3/secure-rag-red-team-benchmark) · [Cloud-Native Security Monitor](https://github.com/LouayHM3/cloud-native-security-monitor) · [A-CorePilot](https://github.com/LouayHM3/A-CorePilot) · [CloudShield](https://github.com/LouayHM3/CloudShield)
 
 <div align="center">
   <a href="https://github.com/LouayHM3/network-ids-soc-copilot"><img src="./assets/network-ids-soc-copilot.svg" width="420" alt="Network IDS &amp; SOC Copilot — explore the repository" /></a>
   <a href="https://github.com/LouayHM3/cloud-native-security-monitor"><img src="./assets/cloud-native-security-monitor.svg" width="420" alt="Cloud-Native Security Monitor — explore the repository" /></a>
   <a href="https://github.com/LouayHM3/secure-rag-red-team-benchmark"><img src="./assets/secure-rag-red-team-benchmark.svg" width="420" alt="Secure RAG Benchmark — explore the repository" /></a>
   <a href="https://github.com/LouayHM3/CloudShield"><img src="./assets/CloudShield.svg" width="420" alt="CloudShield — explore the repository" /></a>
-  <a href="https://github.com/LouayHM3/novaguard"><img src="./assets/novaguard.svg" width="420" alt="NovaGuard AI — explore the repository" /></a>
   <a href="https://github.com/LouayHM3/A-CorePilot"><img src="./assets/A-CorePilot.svg" width="420" alt="A-CorePilot — explore the repository" /></a>
 </div>
 
